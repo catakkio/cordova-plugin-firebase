@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">prankam-51644</string>
+			<string name="google_app_id">com.ionicframework.quarantasrl.myapp70943411</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
 			<string name="google_api_key">AIzaSyCD1yhPQCIEVoO1IBjKaCc7YV2T9UW7NDo</string>
