@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703118766847",
+    "firebase_url": "https://prankam-51644.firebaseio.com",
+    "project_id": "prankam-51644",
+    "storage_bucket": "prankam-51644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703118766847:android:01bd86cf6e110dcf",
+        "android_client_info": {
+          "package_name": "com.ionicframework.quarantasrl.myapp70943411"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703118766847-uu5421sqa1kqg1rh6gcte337f2gl33ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9Mf5bPYUqYTQLIJo5k3G0htaSa0rcIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
