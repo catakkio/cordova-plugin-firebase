@@ -21,11 +21,11 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">com.ionicframework.quarantasrl.myapp70943411</string>
-		</config-file>
+            <string name="google_app_id">@string/google_app_id</string>
+        </config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">AIzaSyCD1yhPQCIEVoO1IBjKaCc7YV2T9UW7NDo</string>
-		</config-file>
+            <string name="google_api_key">@string/google_api_key</string>
+        </config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
 				<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
